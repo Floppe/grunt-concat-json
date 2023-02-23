@@ -4,7 +4,7 @@ Grunt Task for Merging Multiple JSON Files
 
 ## Getting Started
 
-This plugin requires Grunt `~0.4.5`
+This plugin requires Grunt `^1.6.1`
 
 If you haven't used [Grunt](http://gruntjs.com/)
 before, be sure to check out the [Getting
